@@ -1,0 +1,13 @@
+Cronjob Setup
+Here's the instruction to setup the cronjob on cPanel
+
+follow the instruction below:
+
+ Go to your cPanel Cronjob section
+ Use This command for Investment: curl -s https://yoursite.com/cron-job/investment
+ Use This command for Referral: curl -s https://yoursite.com/cron-job/referral
+ Use This command for User Ranking: curl -s https://yoursite.com/cron-job/user-ranking
+Credentials For Admin
+https://yoursite.com/login
+
+For admin: email admin@webmaker.pk, password 12345678
